@@ -1,0 +1,63 @@
+[submodule "modules/git_deploy"]
+	path = modules/git_deploy
+	url = http://git.drupal.org/project/git_deploy.git
+[submodule "modules/entity"]
+	path = modules/entity
+	url = http://git.drupal.org/project/entity.git
+[submodule "modules/pathauto"]
+	path = modules/pathauto
+	url = http://git.drupal.org/project/pathauto.git
+[submodule "modules/globalredirect"]
+	path = modules/globalredirect
+	url = http://git.drupal.org/project/globalredirect.git
+[submodule "modules/transliteration"]
+	path = modules/transliteration
+	url = http://git.drupal.org/project/transliteration.git
+[submodule "modules/token"]
+	path = modules/token
+	url = http://git.drupal.org/project/token.git
+[submodule "modules/ctools"]
+	path = modules/ctools
+	url = http://git.drupal.org/project/ctools.git
+[submodule "modules/views"]
+	path = modules/views
+	url = http://git.drupal.org/project/views.git
+[submodule "modules/views_bulk_operations"]
+	path = modules/views_bulk_operations
+	url = http://git.drupal.org/project/views_bulk_operations.git
+[submodule "modules/devel"]
+	path = modules/devel
+	url = http://git.drupal.org/project/devel.git
+[submodule "modules/wysiwyg"]
+	path = modules/wysiwyg
+	url = http://git.drupal.org/project/wysiwyg.git
+[submodule "modules/rules"]
+	path = modules/rules
+	url = http://git.drupal.org/project/rules.git
+[submodule "modules/mollom"]
+	path = modules/mollom
+	url = http://git.drupal.org/project/mollom.git
+[submodule "modules/google_analytics"]
+	path = modules/google_analytics
+	url = http://git.drupal.org/project/google_analytics.git
+[submodule "modules/webform"]
+	path = modules/webform
+	url = http://git.drupal.org/project/webform.git
+[submodule "modules/services"]
+	path = modules/services
+	url = http://git.drupal.org/project/services.git
+[submodule "modules/acl"]
+	path = modules/acl
+	url = http://git.drupal.org/project/acl.git
+[submodule "modules/content_access"]
+	path = modules/content_access
+	url = http://git.drupal.org/project/content_access.git
+[submodule "modules/workflow"]
+	path = modules/workflow
+	url = http://git.drupal.org/project/workflow.git
+[submodule "modules/oauth"]
+	path = modules/oauth
+	url = http://git.drupal.org/project/oauth.git
+[submodule "modules/libraries"]
+	path = modules/libraries
+	url = http://git.drupal.org/project/libraries.git
