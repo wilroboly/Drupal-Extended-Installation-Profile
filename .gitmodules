@@ -61,3 +61,12 @@
 [submodule "modules/libraries"]
 	path = modules/libraries
 	url = http://git.drupal.org/project/libraries.git
+[submodule "modules/addressfield"]
+	path = modules/addressfield
+	url = http://git.drupal.org/project/addressfield.git
+[submodule "modules/field_collection"]
+	path = modules/field_collection
+	url = http://git.drupal.org/project/field_collection.git
+[submodule "modules/field_group"]
+	path = modules/field_group
+	url = http://git.drupal.org/project/field_group.git

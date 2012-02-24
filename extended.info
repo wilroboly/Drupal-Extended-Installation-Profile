@@ -41,6 +41,9 @@ dependencies[] = workflow
 dependencies[] = workflow_views
 dependencies[] = workflow_rules
 dependencies[] = wysiwyg
+; Extended Fields
+dependencies[] = field_group
+dependencies[] = field_collection
 ; Extended Administration
 dependencies[] = views_ui
 dependencies[] = rules_admin
