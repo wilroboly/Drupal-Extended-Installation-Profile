@@ -41,6 +41,8 @@ dependencies[] = workflow
 dependencies[] = workflow_views
 dependencies[] = workflow_rules
 dependencies[] = wysiwyg
+dependencies[] = strongarm
+dependencies[] = features
 ; Extended Fields
 dependencies[] = field_group
 dependencies[] = field_collection

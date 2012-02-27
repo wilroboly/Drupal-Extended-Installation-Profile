@@ -70,3 +70,9 @@
 [submodule "modules/field_group"]
 	path = modules/field_group
 	url = http://git.drupal.org/project/field_group.git
+[submodule "modules/features"]
+	path = modules/features
+	url = http://git.drupal.org/project/features.git
+[submodule "modules/strongarm"]
+	path = modules/strongarm
+	url = http://git.drupal.org/project/strongarm.git
