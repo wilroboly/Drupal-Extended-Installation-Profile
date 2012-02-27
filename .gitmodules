@@ -76,3 +76,15 @@
 [submodule "modules/strongarm"]
 	path = modules/strongarm
 	url = http://git.drupal.org/project/strongarm.git
+[submodule "modules/uuid"]
+	path = modules/uuid
+	url = http://git.drupal.org/project/uuid.git
+[submodule "modules/uuid_features"]
+	path = modules/uuid_features
+	url = http://git.drupal.org/project/uuid_features.git
+[submodule "modules/deploy"]
+	path = modules/deploy
+	url = http://git.drupal.org/project/deploy.git
+[submodule "modules/entity_dependency"]
+	path = modules/entity_dependency
+	url = http://git.drupal.org/project/entity_dependency.git
